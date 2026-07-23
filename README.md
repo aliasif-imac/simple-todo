@@ -39,7 +39,7 @@ Follow these steps to set up and run the project locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/simple-todo.git
+git clone https://github.com/aliasif-imac/simple-todo.git
 cd simple-todo
 ```
 
